@@ -364,9 +364,9 @@ export default function Home() {
                     Tu participación consciente nos ayuda a entrenar nuestra IA.
                   </p>
                   <div className="flex flex-wrap justify-center gap-2 text-xs bg-blue-100/50 p-2 rounded-lg">
-                    <span className="bg-white/50 px-2 py-1 rounded">🎯 Elige los que te interesen</span>
-                    <span className="bg-white/50 px-2 py-1 rounded">⏱️ Sin presión de tiempo</span>
-                    <span className="bg-white/50 px-2 py-1 rounded">✨ Calidad > Cantidad</span>
+                    <span className="bg-white/50 px-2 py-1 rounded">{'🎯 Elige los que te interesen'}</span>
+                    <span className="bg-white/50 px-2 py-1 rounded">{'⏱️ Sin presión de tiempo'}</span>
+                    <span className="bg-white/50 px-2 py-1 rounded">{'✨ Calidad es mejor que cantidad'}</span>
                   </div>
                 </div>
               </div>
